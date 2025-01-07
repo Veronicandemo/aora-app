@@ -54,7 +54,8 @@ This command will move the starter code to the **app-example** directory and cre
 ![IMG_2752](https://github.com/user-attachments/assets/485bbb85-deb2-4087-b920-ff0a5c42a380)
 
 ### Profile page
-![IMG_2750](https://github.com/user-attachments/assets/746d7b8c-9687-405a-b017-78872f2129fd)
+![IMG_2753](https://github.com/user-attachments/assets/1af16de7-0901-46f5-ae2f-c4e779b1a1e4)
+
 
 
 ## Learn more
